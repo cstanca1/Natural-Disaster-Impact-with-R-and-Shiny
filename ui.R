@@ -1,4 +1,5 @@
 library(shiny)
+library(rCharts)
 
 shinyUI(navbarPage(
   "Population and Economic Impact of Natural Disasters in USA",
